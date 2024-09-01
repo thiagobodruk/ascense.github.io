@@ -2867,7 +2867,7 @@ blockquote {
 }
 
 .section-header {
-  padding: 64px 5% 100px;
+  padding: 64px 5% 60px;
   position: relative;
 }
 
@@ -3815,6 +3815,10 @@ blockquote {
     display: flex;
   }
 
+  .section-header {
+    padding-bottom: 40px;
+  }
+
   .navbar-mobile-button-wrapper {
     padding-left: 16px;
     padding-right: 16px;
@@ -4065,6 +4069,10 @@ blockquote {
   .job-submit-section {
     padding-top: 72px;
     padding-bottom: 72px;
+  }
+
+  .section-header {
+    padding-bottom: 0;
   }
 
   .collection-list, .collection-list-companies, .jobs-collection-list {
