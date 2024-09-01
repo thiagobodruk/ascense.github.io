@@ -3604,6 +3604,7 @@ blockquote {
 
 .logo-brands {
   opacity: .25;
+  max-height: 24px;
 }
 
 @media screen and (max-width: 991px) {
